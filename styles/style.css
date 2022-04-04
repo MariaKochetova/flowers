@@ -12,6 +12,10 @@ header > .links {
     flex-direction: row;
 }
 
+h1 {
+    font-family: 'Playfair Display';
+}
+
 .banner {
     height: 220px;
     background-color:aliceblue;

@@ -1,21 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Raleway:ital,wght@0,300;0,400;0,500;1,500&display=swap');
 
-header {
-    height: 100px;
-    display: flex;
-    align-items: center;
-}
-
-header > .links {
-    display: flex;
-    flex-direction: row;
-}
-
-h1 {
-    font-family: 'Playfair Display';
-}
-
 .banner {
     height: 220px;
     background-color:aliceblue;
